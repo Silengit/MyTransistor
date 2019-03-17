@@ -1,0 +1,24 @@
+﻿  Battle.cpp
+Battle.cpp(5): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+  Game.cpp
+  hero.cpp
+  main.cpp
+  Map.cpp
+  monster.cpp
+  NPC.cpp
+  scene.cpp
+  Skillsystem.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Generating code
+c:\users\lenovo\desktop\study\program\大一下\大实验\experiment_2\my transistor\slime_game\skillsystem.cpp(178): warning C4715: 'Skill::choose_the_skill': not all control paths return a value
+c:\users\lenovo\desktop\study\program\大一下\大实验\experiment_2\my transistor\slime_game\hero.cpp(258): warning C4715: 'Hero::MP_IS_ENOUGH': not all control paths return a value
+c:\users\lenovo\desktop\study\program\大一下\大实验\experiment_2\my transistor\slime_game\battle.cpp(38): warning C4715: 'Battle::battle_is_over': not all control paths return a value
+c:\users\lenovo\desktop\study\program\大一下\大实验\experiment_2\my transistor\slime_game\hero.cpp(44): warning C4715: 'Hero::InitHero': not all control paths return a value
+c:\users\lenovo\desktop\study\program\大一下\大实验\experiment_2\my transistor\slime_game\battle.cpp(85): warning C4715: 'Battle::one_battle': not all control paths return a value
+  All 373 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Slime_Game.vcxproj -> C:\Users\lenovo\Desktop\study\Program\大一下\大实验\experiment_2\My Transistor\Release\Slime_Game.exe
+  Slime_Game.vcxproj -> C:\Users\lenovo\Desktop\study\Program\大一下\大实验\experiment_2\My Transistor\Release\Slime_Game.pdb (Full PDB)
